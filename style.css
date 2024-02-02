@@ -5,4 +5,19 @@
 }
 
 body {
+  margin: 2rem;
+  background-color: rgb(254, 245, 232);
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+.beer_container {
+  
 }
